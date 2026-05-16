@@ -63,11 +63,7 @@ All information, statistics, and NGO details used in this project are based on p
 
 ## 🚀 Live Website
 
-Add your deployed GitHub Pages / Netlify link here.
-
-Example:
-
-https://yourusername.github.io/inamigos-foundation-website/
+https://inamigos-foundation-awareness.netlify.app/
 
 ---
 
